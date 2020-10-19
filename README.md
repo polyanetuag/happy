@@ -36,7 +36,6 @@ Essa aplicação foi realizada durante a Next Level Week #3, projeto da Rocketse
 ---
 
 ## ⏱ Iniciar projeto 
-<br>
 
 ### API (Back-end)
 
