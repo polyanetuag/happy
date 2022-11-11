@@ -10,7 +10,7 @@
 </h3>
 
 <h1 align="center">
-    <img src=".github/happy-interface.png">
+    <img width= '700' src=".github/happy-interface.png">
 </h1>
 
 ## 📚 Sobre 
