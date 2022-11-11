@@ -15,7 +15,7 @@
 
 ## 📚 Sobre 
 
-O projeto **happy** foi desenvolvido com o objetivo de conectar pessoas às crianças em orfanatos, de forma a contribuir e a trazer alegria para os pequeninos.
+O projeto **happy** foi desenvolvido com o objetivo de conectar pessoas às crianças em orfanatos, para que possam contribuir e trazer alegria para os pequeninos.
 
 Essa aplicação foi realizada durante a Next Level Week #3, projeto da Rocketseat, com tutoria de Diego Fernandes.
 
