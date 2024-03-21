@@ -33,7 +33,7 @@ Essa aplicação foi realizada durante a Next Level Week #3, projeto da Rocketse
 - Node
 - Yup
 - Typeorm
-- leaflet react (Mapa)
+- leaflet react (Biblioteca para o Mapa)
 
 ---
 
