@@ -19,7 +19,7 @@ O projeto ***happy*** foi desenvolvido com o objetivo de conectar pessoas às cr
 
 Nessa aplicação, você pode consultar os orfanatos de cada estado e cidade e fazer sua doação.
 
-Essa aplicação foi realizada durante a Next Level Week #3, projeto da Rocketseat, com tutoria de Diego Fernandes.
+Essa aplicação foi realizada durante a Next Level Week #3 - projeto da Rocketseat, com tutoria de Diego Fernandes.
 
 ---
 
