@@ -27,7 +27,7 @@ Foi realizada durante a semana Next Level Week #3 da Rocketseat, com tutoria de 
 ## 🚀 Tecnologias Utilizadas
 
 - [Typescript](https://www.typescriptlang.org/)
-- ReactJs
+- [ReactJs](https://react.dev/)
 - React Native
 - Expo
 - Node
