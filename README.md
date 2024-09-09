@@ -28,7 +28,7 @@ Foi realizada durante a semana *Next Level Week #3* da Rocketseat, com tutoria d
 
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJs](https://react.dev/)
-- React Native
+- [React Native](https://reactnative.dev/)
 - Expo
 - Node
 - Yup
