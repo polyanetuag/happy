@@ -32,7 +32,7 @@ Foi realizada durante a semana *Next Level Week #3* da Rocketseat, com tutoria d
 - Expo
 - [Node](https://nodejs.org/pt)
 - Yup
-- Typeorm
+- [Typeorm](https://typeorm.io/)
 - leaflet react (Biblioteca para o Mapa)
 
 ---
