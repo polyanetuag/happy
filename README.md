@@ -31,7 +31,7 @@ Foi realizada durante a semana *Next Level Week #3* da Rocketseat, com tutoria d
 - [React Native](https://reactnative.dev/)
 - Expo
 - [Node](https://nodejs.org/pt)
-- Yup
+- [Yup](https://www.npmjs.com/package/yup/v/1.0.0-alpha.3)
 - [Typeorm](https://typeorm.io/)
 - [leaflet react](https://leafletjs.com/) (Biblioteca para o Mapa)
 
