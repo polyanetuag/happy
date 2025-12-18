@@ -17,7 +17,7 @@
 
 O projeto ***Happy*** foi desenvolvido com o objetivo de conectar pessoas às crianças que vivem em orfanatos, para que possam contribuir e trazer alegria para os pequeninos. 
 
-Nessa aplicação, você pode consultar os orfanatos em cada estado/cidade e fazer sua doação.
+Nessa aplicação, você pode consultar os orfanatos em cada estado/cidade e fazer a sua doação.
 
 Foi realizada durante a semana Next Level Week #3 da Rocketseat, com tutoria de Diego Fernandes.
 
