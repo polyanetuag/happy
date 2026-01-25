@@ -21,9 +21,6 @@ Nessa aplicação, você pode consultar os orfanatos em cada estado/cidade e faz
 
 Ese aplicativo foi feito durante a semana Next Level Week #3 da Rocketseat, com tutoria de Diego Fernandes.
 
----
-
-
 ## 🚀 Tecnologias Utilizadas
 
 - [Typescript](https://www.typescriptlang.org/)
