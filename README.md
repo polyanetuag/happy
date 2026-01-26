@@ -30,7 +30,7 @@ Ese aplicativo foi feito durante a semana Next Level Week #3 da Rocketseat, com 
 - [Node](https://nodejs.org/pt)
 - [Yup](https://www.npmjs.com/package/yup/v/1.0.0-alpha.3)
 - [Typeorm](https://typeorm.io/)
-- [leaflet react](https://leafletjs.com/) (Biblioteca para o Mapa)
+- [Leaflet react](https://leafletjs.com/) (Biblioteca para o Mapa)
 
 ---
 
