@@ -32,8 +32,6 @@ Ese aplicativo foi feito durante a semana Next Level Week #3 da Rocketseat, com 
 - [Typeorm](https://typeorm.io/)
 - [Leaflet react](https://leafletjs.com/) (Biblioteca para o Mapa)
 
----
-
 ## ⏱ Iniciar projeto 
 
 ### API (Back-end)
