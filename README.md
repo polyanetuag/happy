@@ -86,7 +86,7 @@ $ yarn start
 
 ### 📋 Licença
 
-Esse projeto está sob a licença MIT. 
+Esse projeto está sob a licença [MIT](https://opensource.org/license/mit). 
 Veja o arquivo LICENSE para mais detalhes.
 
 
