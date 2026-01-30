@@ -35,8 +35,6 @@ Ese aplicativo foi feito durante a semana Next Level Week #3 da Rocketseat, com 
 ## ⏱ Iniciar projeto 
 
 ### API (Back-end)
-
-
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/polyanetuag/happy.git 
@@ -81,8 +79,6 @@ $ yarn start
 
 # Obs: Escaneie o QR Code exibido na janela do navegador.
 ```
-
----
 
 ### 📋 Licença
 
