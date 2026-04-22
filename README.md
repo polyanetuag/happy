@@ -84,8 +84,6 @@ $ yarn start
 
 Esse projeto está sob a licença [MIT](https://opensource.org/license/mit). 
 
-Veja o arquivo LICENSE para mais detalhes.
-
 
 ---
 Desenvolvido com 💜 por Polyane Tuag
