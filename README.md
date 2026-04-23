@@ -15,7 +15,7 @@
 
 ## 📚 Sobre 
 
-O projeto ***Happy*** foi desenvolvido com o objetivo de conectar pessoas às crianças que vivem em orfanatos, para que possam contribuir e trazer alegria para os pequeninos. 
+O projeto ***happy*** foi desenvolvido com o objetivo de conectar pessoas às crianças que vivem em orfanatos, para que possam contribuir e trazer alegria para os pequeninos. 
 
 Na aplicação, você pode consultar os orfanatos em cada estado/cidade e fazer a sua doação.
 
